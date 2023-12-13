@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\bin\Debug\Test.exe.config
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\bin\Debug\Test.exe
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\bin\Debug\Test.pdb
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\obj\Debug\Test.exe
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\Test\obj\Debug\Test.pdb

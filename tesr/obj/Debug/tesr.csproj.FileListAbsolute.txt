@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\obj\Debug\tesr.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\obj\Debug\tesr.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\bin\Debug\tesr.exe.config
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\bin\Debug\tesr.exe
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\bin\Debug\tesr.pdb
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\obj\Debug\tesr.exe
+C:\Users\admin\Desktop\Обучение\HW(teacher)\Test\tesr\obj\Debug\tesr.pdb
